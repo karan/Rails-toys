@@ -1,2 +1,2 @@
 # Rails-toys
-Rails playground
+A few random apps built with Rails. Nothing special.
